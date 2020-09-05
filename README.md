@@ -1,9 +1,6 @@
-# Deploying a Web Server in Azure
+# Deploying a Web Server in MS Azure
 
 ### Overview
-
-Wrote a Packer and Terraform template to deploy a customizable, 
-scalable IaaS web server in MS Azure.
 
 Crafted a policy that ensures all indexed resources are tagged, then wrote
 A reusable Terraform module and Packer template for deploying my custom 
